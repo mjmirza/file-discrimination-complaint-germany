@@ -17,9 +17,13 @@ Guide prepared. 30 May 2026. The website can change over time, so the wording on
 
 Most people who experience discrimination in Germany never file anything. Not because they lack a case, but because the official website is dense and hard to read when you are upset, and many people do not even know that free, confidential federal help exists. This guide exists to change that. It turns the real filing process into calm, numbered steps with one screenshot per step, so a person who is stressed and short on time can still act, and act before the short legal deadline runs out.
 
+I made this after a person close to me went through a discrimination case and found the official process hard to handle alone. There is no political, religious, or commercial agenda behind it. It is a personal contribution made in good faith so the next person has an easier path.
+
 **Deutsch**
 
 Die meisten Menschen, die in Deutschland Diskriminierung erleben, melden sie nie. Nicht weil sie keinen Fall hätten, sondern weil die offizielle Webseite dicht und schwer zu lesen ist, wenn man aufgewühlt ist, und weil viele gar nicht wissen, dass es kostenlose, vertrauliche staatliche Hilfe gibt. Diese Anleitung soll das ändern. Sie macht aus dem echten Ablauf ruhige, nummerierte Schritte mit einem Screenshot pro Schritt, damit auch eine gestresste Person mit wenig Zeit handeln kann, und zwar bevor die kurze gesetzliche Frist abläuft.
+
+Entstanden ist sie, nachdem eine mir nahestehende Person einen Diskriminierungsfall durchlebt und den offiziellen Ablauf allein als schwer empfunden hat. Es steckt keine politische, religiöse oder kommerzielle Absicht dahinter. Es ist ein persönlicher Beitrag in guter Absicht, damit es die nächste Person leichter hat.
 
 ## Read this first / Bitte zuerst lesen
 
@@ -375,4 +379,28 @@ This guide is published under Creative Commons Attribution 4.0 International (CC
 
 Diese Anleitung steht unter Creative Commons Namensnennung 4.0 International (CC BY 4.0). Sie dürfen sie kostenlos teilen, übersetzen und erneut veröffentlichen, auch kommerziell, solange Sie dieses Repository nennen und die Quellenlinks erhalten. Volltext in der Datei LICENSE.
 
-This guide is informational and is not legal advice. Diese Anleitung ist eine Information und keine Rechtsberatung.
+## Disclaimer and limitation of liability / Haftungsausschluss
+
+**English**
+
+This repository is an independent, privately made information resource. It is not legal advice and it does not create a lawyer client relationship. The maintainer is not a lawyer and is not acting as one.
+
+- No warranty. The content is provided as is, without any warranty of accuracy, completeness, or being current. Official websites and laws change, so always confirm the details with the official sources linked here before you act.
+- No liability. To the fullest extent permitted by law, the maintainer accepts no responsibility or liability for any loss, damage, missed deadline, or outcome arising from the use of, or reliance on, this guide. You use it at your own risk.
+- Your case is your own. Every situation is different. For advice on your specific case, contact the Antidiskriminierungsstelle des Bundes, a local counseling center, or a qualified lawyer.
+- Not affiliated. This repository is not affiliated with, operated by, or endorsed by the Antidiskriminierungsstelle des Bundes, any government body, or any organisation named here.
+- No agenda. This is a personal contribution made in good faith. It carries no political, religious, or commercial agenda.
+- External links. Links to other websites are provided for convenience. The maintainer does not control and is not responsible for their content.
+
+**Deutsch**
+
+Dieses Repository ist eine unabhängige, privat erstellte Informationshilfe. Es ist keine Rechtsberatung und begründet kein Mandatsverhältnis. Die betreuende Person ist keine Anwältin und kein Anwalt und handelt nicht als solche.
+
+- Keine Gewähr. Die Inhalte werden ohne jede Gewähr für Richtigkeit, Vollständigkeit oder Aktualität bereitgestellt. Offizielle Webseiten und Gesetze ändern sich. Prüfen Sie die Details vor dem Handeln immer bei den hier verlinkten offiziellen Quellen.
+- Keine Haftung. Soweit gesetzlich zulässig, übernimmt die betreuende Person keine Verantwortung oder Haftung für Verluste, Schäden, versäumte Fristen oder Ergebnisse, die aus der Nutzung dieser Anleitung oder dem Vertrauen darauf entstehen. Die Nutzung erfolgt auf eigenes Risiko.
+- Ihr Fall ist Ihr eigener. Jede Situation ist anders. Für eine Beratung zu Ihrem konkreten Fall wenden Sie sich an die Antidiskriminierungsstelle des Bundes, eine Beratungsstelle vor Ort oder eine qualifizierte Anwältin oder einen qualifizierten Anwalt.
+- Keine Verbindung. Dieses Repository steht in keiner Verbindung zur Antidiskriminierungsstelle des Bundes, zu einer Behörde oder zu einer hier genannten Organisation und wird von diesen weder betrieben noch unterstützt.
+- Keine Absicht. Dies ist ein persönlicher Beitrag in guter Absicht. Er verfolgt keine politische, religiöse oder kommerzielle Absicht.
+- Externe Links. Links zu anderen Webseiten dienen der Bequemlichkeit. Die betreuende Person hat keinen Einfluss auf deren Inhalte und übernimmt dafür keine Verantwortung.
+
+This guide is information only and is not legal advice. Diese Anleitung ist nur eine Information und keine Rechtsberatung.
