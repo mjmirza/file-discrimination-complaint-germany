@@ -1,27 +1,40 @@
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+OpenRoots License 1.0
+=====================
 
-This work, the discrimination filing guide in this repository, including its
-text and its screenshots, is licensed under the Creative Commons Attribution
-4.0 International License.
+Canonical text: https://openroots.org/licenses/orl/1.0/legalcode
+Plain summary:  https://openroots.org/licenses/orl/1.0
 
-You are free to:
-- Share. Copy and redistribute the material in any medium or format.
-- Adapt. Remix, transform, and build upon the material for any purpose, even commercially.
+Effective:   2026-08-24
+Sunset Date: 2029-08-24
+Fallback:    Apache-2.0
 
-Under the following terms:
-- Attribution. You must give appropriate credit to this repository, provide a link to this license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- No additional restrictions. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+This licence is one fixed text, adopted word for word. The canonical
+version lives at the address above and is never edited. A correction
+is issued as a new version and this text remains reachable permanently.
 
-The full legal code is available at https://creativecommons.org/licenses/by/4.0/legalcode
-A plain-language summary is available at https://creativecommons.org/licenses/by/4.0/
+PRIOR LICENCE NOTICE
+--------------------
+This repository was previously distributed under ISC.
+That grant is irrevocable for every version released under it.
+Anyone who obtained an earlier release keeps their ISC rights
+in perpetuity. This licence governs releases from 2026-08-24 onward.
 
-Suggested attribution.
-"File a Discrimination Complaint in Germany" guide, licensed under CC BY 4.0, available at the project repository.
+SUMMARY OF TERMS
+----------------
+Root tier     Free and unconditional at or below USD 2,000,000 annual
+              revenue, and for any individual, nonprofit, school, or
+              government body. Rights equivalent in kind to MIT.
 
-Note on screenshots.
-The screenshots show the public website of the Antidiskriminierungsstelle des
-Bundes and the official German statute portal, included for documentation so
-each step is easy to recognise. Trademarks and site content shown remain with
-their respective owners. This repository is independent and is not affiliated
-with, operated by, or endorsed by those bodies. To request removal of a
-screenshot, please open an issue.
+Canopy tier   Above the threshold, 0.5% of revenue attributable to
+              this work, capped at USD 250,000 per year. Self-reported
+              quarterly. The rate is never negotiated.
+
+Compute tier  AI training is not granted by either tier above. It
+              requires a separate Compute licence at every tier.
+              Human reading and search indexing are unaffected.
+
+Sunset        On 2029-08-24 this release converts to Apache-2.0,
+              automatically, binding successors and insolvency trustees.
+
+The operative text is the canonical version linked above. This file is
+a pointer to it, not a substitute for it.
