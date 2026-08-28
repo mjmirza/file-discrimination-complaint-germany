@@ -1,5 +1,7 @@
 # Filing a Discrimination Complaint with the Antidiskriminierungsstelle des Bundes
 
+[![OpenRoots ORA 2.3](https://openroots.org/badge/ora.svg)](https://openroots.org/licenses/ora/2.3)
+
 ### Diskriminierung melden bei der Antidiskriminierungsstelle des Bundes
 
 A plain-language, click-by-click guide for the general public. Deutsch und English.
